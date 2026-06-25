@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lab 21 temporary output
+lab21_lora_t4_output/
+
